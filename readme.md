@@ -2,4 +2,4 @@
 # adresar C:\Projects\projektPython\sd\kurzPython
 # repositories kurzPython
 # datum 20250324
-# autor SD
+# autor Stanislav Dzik
