@@ -5,6 +5,7 @@
 #zmena 4
 #zmena 5 - pouze v c:\Projects\projektPython\sd\
 #zmena 6 - pouze komment
+#zmena 7
 from pip._internal.cli.cmdoptions import python
 
 
