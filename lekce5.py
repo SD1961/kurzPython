@@ -1,5 +1,5 @@
 #zaverzovano GIT /c//Projects/projektPython/sd (master)
-
+#zmena 1
 from pip._internal.cli.cmdoptions import python
 
 
