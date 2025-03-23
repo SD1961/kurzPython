@@ -1,5 +1,11 @@
 #zaverzovano GIT /c//Projects/projektPython/sd (master)
 #zmena 1
+#zmena 2
+#zmena 3
+#zmena 4
+#zmena 5 - pouze v c:\Projects\projektPython\sd\
+#zmena 6 - pouze komment
+#zmena 7
 from pip._internal.cli.cmdoptions import python
 
 
@@ -53,7 +59,7 @@ for item in random_codes:
 
 final_result = set(final_result)
 print(final_result)
-print('konec')
+print('konec s upravami')
 
 
 
