@@ -1,0 +1,1 @@
+readme je presunuto do md souboru
