@@ -3,6 +3,7 @@
 #zmena 2
 #zmena 3
 #zmena 4
+#zmena 5 - pouze v c:\Projects\projektPython\sd\
 from pip._internal.cli.cmdoptions import python
 
 
