@@ -7,6 +7,11 @@
 #zmena 6 - pouze komment
 #zmena 7
 # zmeneno v Pycharm
+# https://github.com/SD1961/kurzPython
+# adresar C:\Projects\projektPython\sd\kurzPython
+# repositories kurzPython
+# datum 20250324
+
 from pip._internal.cli.cmdoptions import python
 
 
